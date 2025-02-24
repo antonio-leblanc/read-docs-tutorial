@@ -3,7 +3,6 @@
 
 # Required
 version: 2
-default_version: master
 
 # Set the OS, Python version, and other tools you might need
 build:
