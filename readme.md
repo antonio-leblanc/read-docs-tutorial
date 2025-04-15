@@ -10,8 +10,8 @@ Steps to init
 
 ---
 References
-https://docs.readthedocs.com/platform/stable/tutorial/index.html
-https://www.youtube.com/watch?v=PO4Zd-6a6fA
+- https://docs.readthedocs.com/platform/stable/tutorial/index.html
+- https://www.youtube.com/watch?v=PO4Zd-6a6fA
 
 
 The steps where
