@@ -12,3 +12,10 @@ Steps to init
 References
 
 https://www.youtube.com/watch?v=PO4Zd-6a6fA
+
+The steps where
+- pip install sphinx sphinx-rtd
+- sphinx quick-start
+
+fill the rts
+`make html` -> they are in build folder
